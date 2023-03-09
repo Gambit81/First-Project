@@ -3,7 +3,7 @@
 ![Responsice Mockup](https://github.com/Gambit81/First-Project/blob/main/Sk%C3%A4rmbild%202023-03-09%20142119.png)
 
 ## HTML/CSS Card Gallery
-### This code is a basic HTML/CSS card gallery that displays a navigation menu, with images and links to various websites in different pages.
+### This code is a basic HTML/CSS card gallery. It displays a navigation menu, with images and links to various websites. The links are to resources for coding development.
 ***
 
 ## Usage
@@ -24,6 +24,6 @@
 
 ## Credits
 
-### This code was created by [Code Institute](https://codeinstitute.net). 
+### This code was created by Michael Park at [Code Institute](https://codeinstitute.net). 
 ### The images used in the cards are from various websites: Wikipedia - Gitpod - Git - GitHub - JavaScript - Python - heroku - Zapier - Google
 ***
