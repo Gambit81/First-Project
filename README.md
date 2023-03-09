@@ -1,5 +1,7 @@
 # [The GitPod Project](https://gambit81.github.io/First-Project/)
 
+![Responsice Mockup](https://github.com/Gambit81/First-Project/blob/main/Sk%C3%A4rmbild%202023-03-09%20142119.png)
+
 ## HTML/CSS Card Gallery
 ### This code is a basic HTML/CSS card gallery that displays several different cards with images and links to various websites.
 ***
