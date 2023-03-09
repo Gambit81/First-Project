@@ -1,8 +1,4 @@
-# Coders Page
-
-[The GitPod Project](https://gambit81.github.io/First-Project/)
-
-***
+# [The GitPod Project](https://gambit81.github.io/First-Project/)
 
 ## HTML/CSS Card Gallery
 ### This code is a basic HTML/CSS card gallery that displays several different cards with images and links to various websites.
